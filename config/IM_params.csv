@@ -1,0 +1,21 @@
+resource_reqd, tabu_tenure, name, type, lat, longi, payload_reqd, imaging_time, memory_reqd, look_angle_reqd, priority, repition 
+[satellite],1,1,point,-1,105,EO,15,1,45,1,2 
+[satellite],1,2,point,3,73,EO,15,1,45,1,2 
+[satellite],1,3,point,-4,90,EO,15,1,45,1,2 
+[satellite],1,4,point,1,120,EO,15,1,45,1,2 
+[satellite],1,5,point,0,127,EO,15,1,45,1,2 
+[satellite],1,6,point,-1,110,EO,15,1,45,1,2 
+[satellite],1,7,point,-4,43,EO,15,1,45,1,2 
+[satellite],1,8,point,5,112,EO,15,1,45,1,2 
+[satellite],1,9,point,3,74,EO,15,1,45,1,2 
+[satellite],1,10,point,1,41,EO,15,1,45,1,2 
+[satellite],1,11,point,-5,42,EO,15,1,45,1,2 
+[satellite],1,12,point,5,67,EO,15,1,45,1,2 
+[satellite],1,13,point,-1,49,EO,15,1,45,1,2 
+[satellite],1,14,point,4,116,EO,15,1,45,1,2 
+[satellite],1,15,point,1,35,EO,15,1,45,1,2 
+[satellite],1,16,point,-1,45,EO,15,1,45,1,2 
+[satellite],1,17,point,-4,55,EO,15,1,45,1,2 
+[satellite],1,18,point,1,88,EO,15,1,45,1,2 
+[satellite],1,19,point,1,88,EO,15,1,45,1,2 
+[satellite],1,20,point,-2,74,EO,15,1,45,1,2 

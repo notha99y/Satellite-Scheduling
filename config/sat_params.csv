@@ -1,0 +1,2 @@
+name,attitude,ave_angular_speed,payload,memory,max_memory,lat,longi,roll,pitch,yaw,altitude
+T1,1,0.0628,EO,0,8.0,0.0,0.0,0.0,0.0,0.0,550.0
