@@ -38,7 +38,7 @@ $$=\sum^r_{m=1} \sum^u_{n=1} p_{m,n}$$
 
 # Algorithm
 <!-- <img src="algorithm.png" alt="algo" style="width: 100px;"/> -->
-![Algo](https://raw.githubusercontent.com/notha99y/Satellite-Scheduling/branch/path/to/algorithm.png)
+![Algo](algorithm.PNG)
 
 ## Objective function
 $$Score_i = k_a a_i + k_b b_i + k_c c_i + k_d d_i + k_e e_i$$
