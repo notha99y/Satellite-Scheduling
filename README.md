@@ -42,9 +42,10 @@ $$=\sum^r_{m=1} \sum^u_{n=1} p_{m,n}$$
 
 ## Objective function
 <!-- $$Score_i = k_a a_i + k_b b_i + k_c c_i + k_d d_i + k_e e_i$$ -->
+
+<p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=$$Score_i&space;=&space;k_a&space;a_i&space;&plus;&space;k_b&space;b_i&space;&plus;&space;k_c&space;c_i&space;&plus;&space;k_d&space;d_i&space;&plus;&space;k_e&space;e_i$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$Score_i&space;=&space;k_a&space;a_i&space;&plus;&space;k_b&space;b_i&space;&plus;&space;k_c&space;c_i&space;&plus;&space;k_d&space;d_i&space;&plus;&space;k_e&space;e_i$$" title="$$Score_i = k_a a_i + k_b b_i + k_c c_i + k_d d_i + k_e e_i$$" /></a>
-
-
+</p>
 
 # References
 [1] John L. Mohammed. Spacecaps: Automated mission planning for the techsat 21 formation-
