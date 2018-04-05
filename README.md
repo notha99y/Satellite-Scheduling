@@ -34,7 +34,7 @@ $$o = \sum_r o_i$$
 $$=\sum^r_{m=1} \sum^u_{n=1} p_{m,n}$$
 
 <br>
-<img src="classhiearchy.jpg" alt="class hierarchy" style="width: 100px;"/>
+<img src="classhiearchy.JPG" alt="class hierarchy" style="width: 100px;"/>
 
 # Algorithm
 <!-- <img src="algorithm.png" alt="algo" style="width: 100px;"/> -->
