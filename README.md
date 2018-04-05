@@ -1,5 +1,6 @@
 # Satellite Scheduling Problem
-
+## Author: Tan Ren Jie
+## Dated: 18 Dec 2016
 Effcient satellite mission planning has always been a key aspect of the Ground Operations. <br>
 The task of satellite mission planning has always been placed onto a human operator to plan accurately and effciently to meet all of the requirements provided. <br>
 This manual tasking is tedious and reuires high level of meticulosity <br>
