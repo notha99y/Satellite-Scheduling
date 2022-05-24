@@ -12,7 +12,7 @@ import math
 import numpy as np
 # from reading_params import read_IM_file
 # from reading_params import read_sat_file
-# from reading_params import generating_IO
+# from generatingATW import generating_IO
 #
 # from objects import ImagingMissions
 # from objects import Satellite
